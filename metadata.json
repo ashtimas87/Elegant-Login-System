@@ -1,0 +1,5 @@
+{
+  "name": "Elegant Login System",
+  "description": "A simple and elegant login page featuring account management for Super Admin, Station, and CHQ accounts, with a hardcoded superadmin account.",
+  "requestFramePermissions": []
+}
